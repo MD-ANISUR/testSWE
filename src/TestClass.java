@@ -8,8 +8,7 @@ public class TestClass {
     }
 
     public static void main(String[] args) {
-        TestClass tc = new TestClass(11, "Anisur");
-	sout;  
+        TestClass tc = new TestClass(191191, "Anisur Anik");    
         
     }
 
